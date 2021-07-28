@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "sevenhillswork"
+version = "0.1.0"
+description = ""
+authors = ["csuraparaju <csuraparaju@wpi.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytesseract = "^0.3.8"
+Pillow-PIL = "^0.1dev"
+opencv-python = "^4.5.3"
+azure-cognitiveservices-vision-computervision = "^0.9.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
