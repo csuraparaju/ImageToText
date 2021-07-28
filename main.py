@@ -9,7 +9,7 @@ from PIL import Image
 import sys
 import time
 
-#Script is currently non functional 
+#Script is currently non functional becuase of the lack of subscription key and azure endpoint 
 
 subscription_key = "#Commented out for security"
 endpoint = "#Commented out for security"
